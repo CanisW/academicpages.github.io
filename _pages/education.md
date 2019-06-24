@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /education/
 title: "Education"
 excerpt: "Education"
 author_profile: true
