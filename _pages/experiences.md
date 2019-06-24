@@ -1,6 +1,6 @@
 ---
 permalink: /experiences/
-title: "Experiences"
+title: ""
 excerpt: "Experiences"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 ## init
-there's nothing here exp
+there is nothing here exp
