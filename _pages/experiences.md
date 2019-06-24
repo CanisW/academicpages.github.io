@@ -1,6 +1,6 @@
 ---
 permalink: /experiences/
-title: ""
+title: "Experiences"
 excerpt: "Experiences"
 author_profile: true
 redirect_from: 
