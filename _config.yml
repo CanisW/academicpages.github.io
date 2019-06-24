@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  experiences:
     output: true
     permalink: /:collection/:path/
   education:
