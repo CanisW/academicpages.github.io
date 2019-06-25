@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome!"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-still buiding
+My name is Yanxing Wang (in Chinese: 王彦行). I'm a student at Peking University and have been there for 5 years. During my undergraduate years, My interest in drug discovery has been growing and that's why I chose medicinal chemistry as my major for MSc degree.
+

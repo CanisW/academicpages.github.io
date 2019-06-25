@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanxing Wang | Home"
 title_separator          : "-"
 name                     : &name "Yanxing Wang"  # in footbar
-description              : &description "Studying for my MSc degree in Peking University"  # no idea where it is on pages
+description              : &description "Studying for my MSc degree at Peking University"  # no idea where it is on pages
 url                      : https://canisw.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "canisw/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yanxing Wang"
   avatar           : "profile.png"
-  bio              : "Studying for my MSc degree in Peking University"
+  bio              : "Studying for my MSc degree at Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
