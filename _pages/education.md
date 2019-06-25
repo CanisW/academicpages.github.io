@@ -7,13 +7,20 @@ redirect_from:
   - /education.html
 ---
 
-<table>
+#### I'm currently taking a six-year Bachelor-Master continuous program at *the School of Pharmaceutical Sciences (SPS), Peking University (PKU)*
 
-  <tr><th>Aug., 2018 - June, 2020 (Expected)</th><td>
-M.S. in Medicinal Chemistry, <b>School of Pharmaceutical Sciences, Peking University (PKU)</b><br></td></tr>
 
-  <tr><th>Aug., 2014 - June, 2018</th><td>
-B.S. in Pharmaceutical Sciences, <b>School of Pharmaceutical Sciences, Peking University (PKU)</b><br>
-</td></tr>
 
-</table>
+**Aug., 2018 - June, 2020 (Expected)**
+
+M.Sc. in Medicinal Chemistry *@ Drug Design Center (DDC), State Key Laboratory of Natural and Biomimetic Drugs (SKLNBD), SPS, PKU*
+
+Focused on incorporate machine learning method to computational models to speed up the early stage of drug discovery.  
+
+
+
+**Aug., 2014 - June, 2018**
+
+B.Sc. in Pharmaceutical Sciences *@ SPS, PKU*
+
+Major courses: Computational Aided Drug Design, Medicinal Chemistry, Structural Chemistry, Organic Chemistry.
