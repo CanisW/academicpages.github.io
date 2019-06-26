@@ -1,7 +1,7 @@
 ---
 permalink: /experiences/
 title: "Experiences"
-excerpt: ""
+excerpt: "Experiences"
 author_profile: true
 redirect_from: 
   - /experiences.html
