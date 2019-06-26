@@ -1,7 +1,7 @@
 ---
 permalink: /experiences/
 title: "Experiences"
-excerpt: "Experiences"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /experiences.html
@@ -27,7 +27,7 @@ Aug., 2017 - Dec., 2018 *@ DDC, SKLNBD, PKU*
 - Identified a novel chemical series of GSK-3$\alpha$ inhibitors with excellent anti-leukemia effect;
 - Elucidated the structure-activity relationship by molecular docking and dynamics simulations.
 
-**Synthesis of Glutamylhydrazine ...**
+**Synthesis of Glutamylhydrazine ...**  
 Jan., 2017 - Mar., 2017 *@ Dong Group, SKLNBD, PKU*
 
 - coming soon
