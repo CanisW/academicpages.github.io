@@ -16,7 +16,8 @@ redirect_from:
 **2017**
 
 - Excellent Medical Student Scholarship;
-- Award for Contribution in Student Organization.
+- Award for Contribution in Student Organization;
+- Second Prize in the 9th Experimental Skills Competition of Peking University School of Pharmaceutical Sciences.
 
 **2016**
 
