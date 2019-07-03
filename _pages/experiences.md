@@ -56,7 +56,7 @@ July 2015 - Aug. 2016 *@ Dong Group, SKLNBD, PKU*
 ## Teaching Experience
 
 **Computater Aided Drug Design Lab (Fall 2018 & Spring 2018)**  
-Teaching Assiant, Instructor: Prof. Yan Niu  
+Teaching Assistant, Instructor: Prof. Yan Niu  
 *@ SPS, PKU*
 
 - Teached students how to use scientific software related to drug design, including Sybyl, Discovery Studio, and Gaussian;
