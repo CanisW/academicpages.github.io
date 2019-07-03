@@ -80,10 +80,10 @@ Attendee *@ Beijing, China*
 
 **[StoneWise Technology Co., Ltd.](http://www.stonewise.cn/home)**  
 Oct. 2018 - Jan. 2019 *@ Beijing, China*  
-Intern in algorithm group
+Intern in algorithm group  
 Focused on scaffold-based molecular generation
 
 **[XtalPi Inc.](http://www.xtalpi.com/)**  
 Oct. 2017 - Feb. 2018 *@ Beijing, China*  
-Intern in algorithm group
+Intern in algorithm group  
 Focused on bindind affinity prediction and discovery of IDO inhibitor
