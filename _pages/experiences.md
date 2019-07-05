@@ -28,12 +28,12 @@ Aug. 2017 - Dec. 2018 *@ DDC, SKLNBD, PKU*
 - Summarized the structure-activity relationship (SAR) by similarity search;
 - Elucidated the SAR by molecular docking and dynamics simulations.
 
-**QSAR of acylphloroglucinol-based meroterpenoid inhibitors of KSHV from *Hypericum japonicum***  
+**QSAR of Acylphloroglucinol-Based Meroterpenoid Inhibitors of KSHV From *Hypericum Japonicum***  
 Jan. 2018 - Mar. 2018 *@ DDC, SKLNBD, PKU*
 
 - Field-based 3D QSAR of KSHV inhibitors extracted from *Hypericum japonicum*.
 
-**Discovery of new GSK-3 inhibitors through structure-based virtual screening**  
+**Discovery of New GSK-3$\beta$ Inhibitors Through Structure-Based Virtual Screening**  
 Apr. 2017 - Aug. 2017 *@ DDC, SKLNBD, PKU*
 
 - Binding modes prediction by molecular docking and dynamics simulations.
