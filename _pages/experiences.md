@@ -57,7 +57,7 @@ July 2015 - Aug. 2016 *@ Dong Group, SKLNBD, PKU*
 
 *External Links:*  
 [*Drug Design Center*](http://www.pkuddc.com/index.jsp)  
-[*Dong Gruop*](http://sklnbd.bjmu.edu.cn/k/e/action/ListInfo/?classid=238)
+[*Dong Group*](http://sklnbd.bjmu.edu.cn/k/e/action/ListInfo/?classid=238)
 
 ## Teaching Experience
 
