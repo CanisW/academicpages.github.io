@@ -11,10 +11,17 @@ redirect_from:
 
 **Aug., 2018 - June, 2020 (Expected)**  
 M.Sc. in Medicinal Chemistry  
+Advisor: Liangren Zhang  
 *@ Drug Design Center (DDC), State Key Laboratory of Natural and Biomimetic Drugs (SKLNBD), SPS, PKU*  
 Focused on incorporate machine learning method to computational models to speed up the early stage of drug discovery.  
 
 **Aug., 2014 - June, 2018**  
 B.Sc. in Pharmaceutical Sciences  
+Advisor: Liangren Zhang  
 *@ SPS, PKU*  
 Major courses: Computational Aided Drug Design, Medicinal Chemistry, Structural Chemistry, Organic Chemistry.
+
+*External Links:*  
+[*Drug Design Center*](http://www.pkuddc.com/index.jsp)  
+[*State Key Laboratory of Natural and Biomimetic Drugs*](http://sklnbd.bjmu.edu.cn/)  
+[*Peking University*](https://pku.edu.cn/index.htm)

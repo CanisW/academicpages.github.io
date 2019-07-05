@@ -38,20 +38,26 @@ Apr. 2017 - Aug. 2017 *@ DDC, SKLNBD, PKU*
 
 - Binding modes prediction by molecular docking and dynamics simulations.
 
-**Synthesis of Glutamylhydrazine ...**  
-Jan. 2017 - Mar. 2017 *@ Dong Group, SKLNBD, PKU*
+**Activating Thioesterification in Synthesis of Peptidyl Thioesters by Peroglutamyl Imide**  
+Feb. 2017 - Mar. 2017 *@ Dong Group, SKLNBD, PKU*
 
-- coming soon
+- Synthesis of peptide-glutamylhydrazine-resin complex
 
-**Synthesis of Selenocycteine**  
+**Internal Activation of Peptidyl Selenoprolyl Thioester in Peptide Ligation in Pro-Cys Site**  
 July 2016 - Jan. 2017 *@ Dong Group, SKLNBD, PKU*
 
-- coming soon
+- Synthesis of $\gamma$-selenoproline
+- Synthesis of selenocystine
+- Synthesis of west-side peptidyl thioesters
 
-**Synthesis of Selenoproline and Its Application to Peptide Ligation**  
+**Synthesis of Proline Derivatives**  
 July 2015 - Aug. 2016 *@ Dong Group, SKLNBD, PKU*
 
-- coming soon
+- Lab skills training on organic synthesis
+
+*External Links:*  
+[*Drug Design Center*](http://www.pkuddc.com/index.jsp)  
+[*Dong Gruop*](http://sklnbd.bjmu.edu.cn/k/e/action/ListInfo/?classid=238)
 
 ## Teaching Experience
 
@@ -81,9 +87,9 @@ Attendee *@ Beijing, China*
 **[StoneWise Technology Co., Ltd.](http://www.stonewise.cn/home)**  
 Oct. 2018 - Jan. 2019 *@ Beijing, China*  
 Intern in algorithm group  
-Focused on scaffold-based molecular generation
+Invovled in scaffold-based molecular generation
 
 **[XtalPi Inc.](http://www.xtalpi.com/)**  
 Oct. 2017 - Feb. 2018 *@ Beijing, China*  
 Intern in algorithm group  
-Focused on bindind affinity prediction and discovery of IDO inhibitor
+Invovled in binding affinity prediction and discovery of IDO inhibitor
