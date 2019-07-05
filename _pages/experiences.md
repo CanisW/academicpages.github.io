@@ -41,19 +41,19 @@ Apr. 2017 - Aug. 2017 *@ DDC, SKLNBD, PKU*
 **Activating Thioesterification in Synthesis of Peptidyl Thioesters by Peroglutamyl Imide**  
 Feb. 2017 - Mar. 2017 *@ Dong Group, SKLNBD, PKU*
 
-- Synthesis of peptide-glutamylhydrazine-resin complex
+- Synthesis of peptide-glutamylhydrazine-resin complex.
 
 **Internal Activation of Peptidyl Selenoprolyl Thioester in Peptide Ligation in Pro-Cys Site**  
 July 2016 - Jan. 2017 *@ Dong Group, SKLNBD, PKU*
 
-- Synthesis of $\gamma$-selenoproline
-- Synthesis of selenocystine
-- Synthesis of west-side peptidyl thioesters
+- Synthesis of $\gamma$-selenoproline;
+- Synthesis of selenocystine;
+- Synthesis of west-side peptidyl thioesters.
 
 **Synthesis of Proline Derivatives**  
 July 2015 - Aug. 2016 *@ Dong Group, SKLNBD, PKU*
 
-- Lab skills training on organic synthesis
+- Lab skills training on organic synthesis.
 
 *External Links:*  
 [*Drug Design Center*](http://www.pkuddc.com/index.jsp)  
