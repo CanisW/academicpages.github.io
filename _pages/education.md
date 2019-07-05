@@ -19,7 +19,7 @@ Focused on incorporate machine learning method to computational models to speed 
 B.Sc. in Pharmaceutical Sciences  
 Advisor: Liangren Zhang  
 *@ SPS, PKU*  
-Major courses: Computational Aided Drug Design, Medicinal Chemistry, Structural Chemistry, Organic Chemistry.
+Selected courses: Computational Aided Drug Design, Medicinal Chemistry, Structural Chemistry, Organic Chemistry.
 
 *External Links:*  
 [*Drug Design Center*](http://www.pkuddc.com/index.jsp)  
