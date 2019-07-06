@@ -13,7 +13,7 @@ redirect_from:
 M.Sc. in Medicinal Chemistry  
 Advisor: Liangren Zhang  
 *@ Drug Design Center (DDC), State Key Laboratory of Natural and Biomimetic Drugs (SKLNBD), SPS, PKU*  
-Graduate courses: Advanced Medicinal Chemistry, Advanced Organic Chemistry.
+Graduate courses: Advanced Medicinal Chemistry, Advanced Organic Chemistry.  
 Focused on incorporating machine learning method into computational models to speed up the early stage of drug discovery.  
 
 **Aug., 2014 - June, 2018**  
