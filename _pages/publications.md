@@ -8,7 +8,7 @@ author_profile: true
 
 **2019**
 
-- Multistage Screening Reveals 3-substituted Indolin-2-one Derivatives as Novel and Isoform Selective c-Jun N-terminal kinase 3 (JNK3) Inhibitors: Implications to Drug Discovery for Potential Treatment of Neurodegenerative Diseases. Dou, X., Huang, H., Li, Y., Jiang, L., **Wang, Y.**, Jin, H., Jiao, N., Zhang, L., Zhang, L.$^\*$, Liu, Z.$^\*$, *J. Med. Chem.*, **2019**, *Just Accepted*. [\[CrossRef\]](https://doi.org/10.1016/j.ejmech.2019.03.039)
+- Multistage Screening Reveals 3-substituted Indolin-2-one Derivatives as Novel and Isoform Selective c-Jun N-terminal kinase 3 (JNK3) Inhibitors: Implications to Drug Discovery for Potential Treatment of Neurodegenerative Diseases. Dou, X., Huang, H., Li, Y., Jiang, L., **Wang, Y.**, Jin, H., Jiao, N., Zhang, L., Zhang, L.$^\*$, Liu, Z.$^\*$, *J. Med. Chem.*, **2019**, *Just Accepted*. [\[CrossRef\]](https://doi.org/10.1021/acs.jmedchem.9b00537)
 
 - Discovery of novel glycogen synthase kinase-3$\alpha$ inhibitors: Structure-based virtual screening, preliminary SAR and biological evaluation for treatment of acute myeloid leukemia. **Wang, Y.**$^\dagger$, Dou, X.$^\dagger$, Jiang, L., Jin, H., Zhang, L., Zhang, L.$^\*$ and Liu, Z.$^\*$, *Euro. J. Med. Chem.*, **2019**, *171*, 221-234. [\[CrossRef\]](https://doi.org/10.1016/j.ejmech.2019.03.039)
 

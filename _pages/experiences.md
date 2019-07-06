@@ -61,7 +61,7 @@ July 2015 - Aug. 2016 *@ Dong Group, SKLNBD, PKU*
 
 ## Teaching Experience
 
-**Computater Aided Drug Design Lab (Fall 2018 & Spring 2018)**  
+**Computer Aided Drug Design Lab (Fall 2018 & Spring 2018)**  
 Teaching Assistant, Instructor: Prof. Yan Niu  
 *@ SPS, PKU*
 
