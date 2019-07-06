@@ -24,8 +24,9 @@ Aug. 2018 - June. 2019 *@ DDC, SKLNBD, PKU*
 **Discovery of Novel Inhibitors of Glycogen Synthase Kinase-3$\alpha$ for Treatment of Acute Myeloid Leukemia**  
 Aug. 2017 - Dec. 2018 *@ DDC, SKLNBD, PKU*
 
-- Identified a novel chemical series of GSK-3$\alpha$ inhibitors with excellent anti-leukemia effects *in vitro*;
+- Identified a novel chemical series of GSK-3$\alpha$ inhibitors by structure-based virtual screening;
 - Summarized the structure-activity relationship (SAR) by similarity search;
+- Demonstrate their excellent anti-leukemia effects *in vitro*;
 - Elucidated the SAR by molecular docking and dynamics simulations.
 
 **QSAR of Acylphloroglucinol-Based Meroterpenoid Inhibitors of KSHV From *Hypericum Japonicum***  
