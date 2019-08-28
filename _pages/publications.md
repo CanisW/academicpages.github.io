@@ -8,7 +8,11 @@ author_profile: true
 
 **2019**
 
-- Multistage Screening Reveals 3-substituted Indolin-2-one Derivatives as Novel and Isoform Selective c-Jun N-terminal kinase 3 (JNK3) Inhibitors: Implications to Drug Discovery for Potential Treatment of Neurodegenerative Diseases. Dou, X., Huang, H., Li, Y., Jiang, L., **Wang, Y.**, Jin, H., Jiao, N., Zhang, L., Zhang, L.$^\*$, Liu, Z.$^\*$, *J. Med. Chem.*, **2019**, *Just Accepted*. [\[CrossRef\]](https://doi.org/10.1021/acs.jmedchem.9b00537)
+- DeepScaffold: a comprehensive tool for scaffold-based de novo drug discovery using deep learning. Li, Y.$^\dagger$, Hu, J.$^\dagger$, Wang, Y., Zhou, J.$^\*$, Zhang, L.$^\*$, Liu, Z.$^\*$, *arXiv:1908.07209*, **2019**. [\[arXiv.org\]](https://arxiv.org/abs/1908.07209) (*Submitted to journal*)
+
+- Discovery of fused heterocyclic carboxamide derivatives as novel α7-nAChR agonists: Synthesis, preliminary SAR and biological evaluation. Xue, Y.$^\dagger$, He, X.$^\dagger$, Yang, T., Wang, Y., Liu, Z., Zhang, G., **Wang, Y.**, Wang, K.$^\*$, Zhang, L.$^\*$, Zhang, L., *Euro. J. Med. Chem.*, **2019**, *182*, 111618. [\[CrossRef\]](https://doi.org/10.1016/j.ejmech.2019.111618)
+  
+- Multistage Screening Reveals 3-substituted Indolin-2-one Derivatives as Novel and Isoform Selective c-Jun N-terminal kinase 3 (JNK3) Inhibitors: Implications to Drug Discovery for Potential Treatment of Neurodegenerative Diseases. Dou, X., Huang, H., Li, Y., Jiang, L., **Wang, Y.**, Jin, H., Jiao, N., Zhang, L., Zhang, L.$^\*$, Liu, Z.$^\*$, *J. Med. Chem.*, **2019**, *14*, 6645-6664. [\[CrossRef\]](https://doi.org/10.1021/acs.jmedchem.9b00537)
 
 - Discovery of novel glycogen synthase kinase-3$\alpha$ inhibitors: Structure-based virtual screening, preliminary SAR and biological evaluation for treatment of acute myeloid leukemia. **Wang, Y.**$^\dagger$, Dou, X.$^\dagger$, Jiang, L., Jin, H., Zhang, L., Zhang, L.$^\*$ and Liu, Z.$^\*$, *Euro. J. Med. Chem.*, **2019**, *171*, 221-234. [\[CrossRef\]](https://doi.org/10.1016/j.ejmech.2019.03.039)
 

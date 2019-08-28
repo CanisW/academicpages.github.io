@@ -11,7 +11,8 @@ redirect_from:
 **2018**
 
 - Excellent Medical Student Scholarship;
-- Award for Academic Excellents.
+- Award for Academic Excellents;
+- National Graduate Academic Scholarship.
 
 **2017**
 
