@@ -8,7 +8,7 @@ author_profile: true
 
 **2019**
 
-- DeepScaffold: a comprehensive tool for scaffold-based de novo drug discovery using deep learning. Li, Y.$^\dagger$, Hu, J.$^\dagger$, Wang, Y., Zhou, J.$^\*$, Zhang, L.$^\*$, Liu, Z.$^\*$, *arXiv:1908.07209*, **2019**. [\[arXiv.org\]](https://arxiv.org/abs/1908.07209) (*Submitted to journal*)
+- DeepScaffold: a comprehensive tool for scaffold-based de novo drug discovery using deep learning. Li, Y.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, J.$^\*$, Zhang, L.$^\*$, Liu, Z.$^\*$, *arXiv:1908.07209*, **2019**. [\[arXiv.org\]](https://arxiv.org/abs/1908.07209) (*Submitted to journal*)
 
 - Discovery of fused heterocyclic carboxamide derivatives as novel α7-nAChR agonists: Synthesis, preliminary SAR and biological evaluation. Xue, Y.$^\dagger$, He, X.$^\dagger$, Yang, T., Wang, Y., Liu, Z., Zhang, G., **Wang, Y.**, Wang, K.$^\*$, Zhang, L.$^\*$, Zhang, L., *Euro. J. Med. Chem.*, **2019**, *182*, 111618. [\[CrossRef\]](https://doi.org/10.1016/j.ejmech.2019.111618)
   
