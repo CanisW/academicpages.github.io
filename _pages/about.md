@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yanxing Wang. I'm a student at Peking University and have been studying there for 5 years. During my undergraduate years, My interest in drug discovery has been inspired and that's why I chose medicinal chemistry as my major for further study.
+↑ Use navigation bar to find what you want. ↑
+<!-- My name is Yanxing Wang. I'm a student at Peking University and have been studying there for 5 years. During my undergraduate years, My interest in drug discovery has been inspired and that's why I chose medicinal chemistry as my major for further study. -->
 
