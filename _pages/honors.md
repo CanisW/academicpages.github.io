@@ -8,6 +8,12 @@ redirect_from:
 ---
 <br>
 
+**2019**
+
+- National Scholarship;
+- National Graduate Academic Scholarship;
+- Coming soon.
+
 **2018**
 
 - Excellent Medical Student Scholarship;
