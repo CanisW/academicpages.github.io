@@ -11,8 +11,8 @@ redirect_from:
 **2019**
 
 - National Scholarship;
-- National Graduate Academic Scholarship;
-- Coming soon.
+- Award for Outstanding Research;
+- National Graduate Academic Scholarship.
 
 **2018**
 

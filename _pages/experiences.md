@@ -72,7 +72,7 @@ Teaching Assistant, Instructor: Prof. Yan Niu
 ## Conference
 
 **Nov. 2019, The 15th National Conference on Computer Chemistry of China**  
-Attendee (Planned) & Poster Presenter (Planned) *@ Shanghai, China*
+Attendee & Poster Presenter *@ Shanghai, China*
 
 **Aug. 2019, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)**  
 Attendee & Poster Presenter *@ Chengdu, China*
