@@ -12,7 +12,7 @@ author_profile: true
 
 *(Last Updated: Sept. 2020)*
 
--Lai, J.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, X., Li, Y., Zhang, L.$^\*$ and Liu, Z.$^\*$, Privileged Scaffold Analysis of Natural Products with Deep Learning‐based Indication Prediction Model. *Mol. Inf.*, **2020**. [\[CrossRef\]](https://doi.org/10.1002/minf.202000057)
+- Lai, J.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, X., Li, Y., Zhang, L.$^\*$ and Liu, Z.$^\*$, Privileged Scaffold Analysis of Natural Products with Deep Learning‐based Indication Prediction Model. *Mol. Inf.*, **2020**. [\[CrossRef\]](https://doi.org/10.1002/minf.202000057)
 
 - **Wang, Y.**$^\dagger$, Hu, J.$^\dagger$, Lai, J., Li, Y., Jin, H., Zhang, L., Zhang, L.$^\*$ and Liu, Z.$^\*$, TF3P: Three-dimensional Force Fields Fingerprint Learned by Deep Capsular Network. *J. Chem. Inf. Model.*, **2020**, *6*, 2754-2765. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.0c00005) [\[arXiv.org\]](https://arxiv.org/abs/1912.11430)
   
