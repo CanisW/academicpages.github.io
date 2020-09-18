@@ -9,11 +9,13 @@ redirect_from:
 
 ## Research Experience
 
-**Representation Learning of 3D Molecule from Physical Fields Using Deep Neural Network**  
-Nov. 2018 - Present *@ DDC, SKLNBD, PKU*
+*(Last Updated: Sept. 2020)*
 
-- Train an auto-encoder composed majorly of convolutional and deconvolutional units on ZINC lead-like subset, supervising training with 2D fingerprints;
-- Aim to develop a new fingerprinting method for 3D molecule with better performance in ligand-based virtual screening and target prediction.
+**TF3P: Three-dimensional Force Fields Fingerprint Learned by Deep Capsular Network.**  
+Nov. 2018 - May 2020 *@ DDC, SKLNBD, PKU*
+
+- Developed a new 3D fingerprint, TF3P, using the deep capsular network;
+- TF3P outperforms other fingerprints on retrieving similar targets by similar ligands.
 
 **DeepScaffold: A Comprehensive Tool for Scaffold-Directed Drug Discovery Using Deep Learning**  
 Aug. 2018 - June. 2019 *@ DDC, SKLNBD, PKU*

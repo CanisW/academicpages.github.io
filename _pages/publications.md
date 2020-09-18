@@ -6,11 +6,15 @@ author_profile: true
 ---
 <br>
 
-**2019**
+*(Last Updated: Sept. 2020)*
 
-- **Wang, Y.**$^\dagger$, Hu, J.$^\dagger$, Lai, J., Li, Y., Jin, H., Zhang, L., Zhang, L.$^\*$ and Liu, Z.$^\*$, TF3P: Three-dimensional Force Fields Fingerprint Learned by Deep Capsular Network. *arXiv preprint*, **2019**, *arXiv:1912.11430*. [\[arXiv.org\]](https://arxiv.org/abs/1912.11430)
+**2020**
+
+- **Wang, Y.**$^\dagger$, Hu, J.$^\dagger$, Lai, J., Li, Y., Jin, H., Zhang, L., Zhang, L.$^\*$ and Liu, Z.$^\*$, TF3P: Three-dimensional Force Fields Fingerprint Learned by Deep Capsular Network. *J. Chem. Inf. Model.*, **2020**, *6*, 2754-2765. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.0c00005) [\[arXiv.org\]](https://arxiv.org/abs/1912.11430)
   
-- Li, Y.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, J.$^\*$, Zhang, L.$^\*$, Liu, Z.$^\*$, DeepScaffold: a comprehensive tool for scaffold-based de novo drug discovery using deep learning. *J. Chem. Inf. Model.*, **2019**, *In press*. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.9b00727) [\[arXiv.org\]](https://arxiv.org/abs/1908.07209)
+- Li, Y.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, J.$^\*$, Zhang, L.$^\*$, Liu, Z.$^\*$, DeepScaffold: a comprehensive tool for scaffold-based de novo drug discovery using deep learning. *J. Chem. Inf. Model.*, **2020**, *1*, 77-91. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.9b00727) [\[arXiv.org\]](https://arxiv.org/abs/1908.07209)
+
+**2019**
 
 - Xue, Y.$^\dagger$, He, X.$^\dagger$, Yang, T., Wang, Y., Liu, Z., Zhang, G., **Wang, Y.**, Wang, K.$^\*$, Zhang, L.$^\*$, Zhang, L., Discovery of fused heterocyclic carboxamide derivatives as novel $\alpha$7-nAChR agonists: Synthesis, preliminary SAR and biological evaluation. *Euro. J. Med. Chem.*, **2019**, *182*, 111618. [\[CrossRef\]](https://doi.org/10.1016/j.ejmech.2019.111618)
   

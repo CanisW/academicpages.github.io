@@ -7,9 +7,8 @@ redirect_from:
   - /education.html
 ---
 
-> I'm currently taking a six-year Bachelor-Master continuous program at *the School of Pharmaceutical Sciences (SPS), Peking University (PKU)*
 
-**Aug., 2018 - June, 2020 (Expected)**  
+**Aug., 2018 - June, 2020**  
 M.Sc. in Medicinal Chemistry  
 Advisor: Liangren Zhang  
 *@ Drug Design Center (DDC), State Key Laboratory of Natural and Biomimetic Drugs (SKLNBD), SPS, PKU*  
