@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanxing Wang | Home"
 title_separator          : "-"
 name                     : &name "Yanxing Wang"  # in footbar
-description              : &description "Computational Drug Discovery"  # no idea where it is on pages
+description              : &description "YWang's Homepage"  # no idea where it is on pages
 url                      : https://canisw.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "canisw/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yanxing Wang"
   avatar           : "profile.png"
-  bio              : "Studying for my MSc degree at Peking University"
+  bio              : "Computational Drug Discovery"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
