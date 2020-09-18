@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /education.html
 ---
-
+<br>
 
 **Aug., 2018 - June, 2020**  
 M.Sc. in Medicinal Chemistry  
