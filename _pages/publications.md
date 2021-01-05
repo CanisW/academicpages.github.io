@@ -16,11 +16,11 @@ author_profile: true
 
 - Xia, X.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhang, L.$^\*$ and Liu, Z.$^\*$, Graph-based generative models for *de novo* drug design. *Drug Discovery Today: Technol.*, **2020**. [\[CrossRef\]](https://doi.org/10.1016/j.ddtec.2020.11.004) 
 
-- Lai, J.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, X., Li, Y., Zhang, L.$^\*$ and Liu, Z.$^\*$, Privileged Scaffold Analysis of Natural Products with Deep Learning‐based Indication Prediction Model. *Mol. Inf.*, **2020**. [\[CrossRef\]](https://doi.org/10.1002/minf.202000057)
+- Lai, J.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, X., Li, Y., Zhang, L.$^\*$ and Liu, Z.$^\*$, Privileged Scaffold Analysis of Natural Products with Deep Learning‐based Indication Prediction Model. *Mol. Inf.*, **2020**. [\[CrossRef\]](https://doi.org/10.1002/minf.202000057) [\[GitHub\]](https://github.com/wllllg/Privileged_Scaffold)
 
-- **Wang, Y.**$^\dagger$, Hu, J.$^\dagger$, Lai, J., Li, Y., Jin, H., Zhang, L., Zhang, L.$^\*$ and Liu, Z.$^\*$, TF3P: Three-dimensional Force Fields Fingerprint Learned by Deep Capsular Network. *J. Chem. Inf. Model.*, **2020**, *60*, 2754-2765. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.0c00005) [\[arXiv.org\]](https://arxiv.org/abs/1912.11430)
+- **Wang, Y.**$^\dagger$, Hu, J.$^\dagger$, Lai, J., Li, Y., Jin, H., Zhang, L., Zhang, L.$^\*$ and Liu, Z.$^\*$, TF3P: Three-dimensional Force Fields Fingerprint Learned by Deep Capsular Network. *J. Chem. Inf. Model.*, **2020**, *60*, 2754-2765. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.0c00005) [\[arXiv.org\]](https://arxiv.org/abs/1912.11430) [\[GitHub\]](https://github.com/CanisW/TF3P)
   
-- Li, Y.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, J.$^\*$, Zhang, L.$^\*$, Liu, Z.$^\*$, DeepScaffold: a comprehensive tool for scaffold-based de novo drug discovery using deep learning. *J. Chem. Inf. Model.*, **2020**, *60*, 77-91. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.9b00727) [\[arXiv.org\]](https://arxiv.org/abs/1908.07209)
+- Li, Y.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, J.$^\*$, Zhang, L.$^\*$, Liu, Z.$^\*$, DeepScaffold: a comprehensive tool for scaffold-based de novo drug discovery using deep learning. *J. Chem. Inf. Model.*, **2020**, *60*, 77-91. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.9b00727) [\[arXiv.org\]](https://arxiv.org/abs/1908.07209) [\[GitHub\]](https://github.com/deep-scaffold)
 
 **2019**
 
