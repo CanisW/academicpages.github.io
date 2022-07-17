@@ -10,25 +10,23 @@ redirect_from:
 
 *(Last Updated: July 2022)*
 
-## Research Experience
+## Education
+
+**Jan., 2022 - Present**
+Ph.D. in Computational Biomedical Engineering
+Advisor: Pengyu Ren
+* @ [Department of Biomedical Engineering](https://www.bme.utexas.edu/), [Cockrell School of Engineering](https://cockrell.utexas.edu/), [The University of Texas at Austin](https://www.utexas.edu/)*
 
 **Aug., 2018 - June, 2020**  
 M.Sc. in Medicinal Chemistry  
-Advisor: Liangren Zhang  
-*@ Drug Design Center (DDC), State Key Laboratory of Natural and Biomimetic Drugs (SKLNBD), SPS, PKU*  
-Graduate courses: Advanced Medicinal Chemistry, Advanced Organic Chemistry.  
+Advisor: Liangren Zhang
+*@ [Drug Design Center (DDC)](http://www.pkuddc.com/index.jsp), [State Key Laboratory of Natural and Biomimetic Drugs (SKLNDB)](http://sklnbd.bjmu.edu.cn/), [School of Pharmaceutical Sciences](https://sps.bjmu.edu.cn/), [Peking University (PKU)](https://www.pku.edu.cn/)*  
 Focus on incorporating machine learning method into computational models to speed up the early stage of drug discovery.  
 
 **Aug., 2014 - June, 2018**  
 B.Sc. in Pharmaceutical Sciences  
-Advisor: Liangren Zhang  
-*@ SPS, PKU*  
-Selected courses: Computer Aided Drug Design, Medicinal Chemistry, Structural Chemistry, Organic Chemistry.
-
-*External Links:*  
-[*Drug Design Center*](http://www.pkuddc.com/index.jsp)  
-[*State Key Laboratory of Natural and Biomimetic Drugs*](http://sklnbd.bjmu.edu.cn/)  
-[*Peking University*](https://pku.edu.cn/index.htm)
+Advisor: Liangren Zhang
+*@ [School of Pharmaceutical Sciences](https://sps.bjmu.edu.cn/), [Peking University](https://www.pku.edu.cn/)*  
 
 
 ## Research Experience
