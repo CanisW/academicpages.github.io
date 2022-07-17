@@ -17,14 +17,14 @@ redirect_from:
 Ph.D. in Computational Biomedical Engineering  
 <!-- *@ [Department of Biomedical Engineering](https://www.bme.utexas.edu/), [Cockrell School of Engineering](https://cockrell.utexas.edu/), [The University of Texas at Austin](https://www.utexas.edu/)* -->
 *@ Department of Biomedical Engineering,*  
-&nbsp;&nbsp;*Cockrell School of Engineering, The University of Texas at Austin*  
+&nbsp;&nbsp;&nbsp;&nbsp;*Cockrell School of Engineering, The University of Texas at Austin*  
 Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren)  
 
 **Aug., 2018 - June, 2020**  
 M.Sc. in Medicinal Chemistry  
-*@ Department of Medicinal Chemistry,*
-&nbsp;&nbsp;*State Key Laboratory of Natural and Biomimetic Drugs,*  
-&nbsp;&nbsp;*School of Pharmaceutical Sciences, Peking University*  
+*@ Department of Medicinal Chemistry,*  
+&nbsp;&nbsp;&nbsp;&nbsp;*State Key Laboratory of Natural and Biomimetic Drugs,*  
+&nbsp;&nbsp;&nbsp;&nbsp;*School of Pharmaceutical Sciences, Peking University*  
 Advisor: [Liangren Zhang](http://dmc.sps.bjmu.edu.cn/english_20180111164913306359/researchsupervisor/193269.htm#)  
 Focused on incorporating machine learning method into computational models to speed up the early stage of drug discovery.  
 
