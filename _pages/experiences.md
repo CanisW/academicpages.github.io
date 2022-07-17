@@ -36,12 +36,11 @@ Advisor: [Liangren Zhang](http://dmc.sps.bjmu.edu.cn/english_2018011116491330635
 ## Teaching Experience
 
 **BME303L Introduction to Computing (Spring 2022)**  
-Teaching Assistant, Instructor: Prof. Tim Yeh 
+Teaching Assistant, Instructor: Prof. Tim Yeh  
 *@ The University of Texas at Austin*
 
-- Leading the computer labs
+- Leading the computer labs covering basic C++ and Python programing
 - Designing, proctoring and grading the exams
-- Course topics covered basic C++ and Python programing.
 
 **Computer Aided Drug Design Lab (Fall 2018 & Spring 2018)**  
 Teaching Assistant, Instructor: Prof. Yan Niu  
@@ -49,6 +48,31 @@ Teaching Assistant, Instructor: Prof. Yan Niu
 
 - Teaching students how to use scientific software related to drug design, including Sybyl, Discovery Studio, and Gaussian;
 - Supervising students to do projects, including QSAR, binding mode prediction, and molecular geometry optimization.
+
+
+
+## Work Experience
+
+**[Galixir](https://www.galixir.com/)**  
+Feb. 2021 - Jan. 2022 *@ Beijing, China*  
+Algorithm Engineer in the algorithrm application team  
+Leading and participating in several AI-aided drug R&D pipelines (discovery and pre-clinical stages)
+
+**[XtalPi Inc.](http://www.xtalpi.com/)**  
+Oct. 2020 - Feb. 2021 *@ Shenzhen, China*  
+Intern in AIDD (Artificial Intelligence aided Drug Discovery) team   
+Participating in a project concering chemical reaction related prediction, e.g. yields, conditions, catalysts, reactivity, etc.
+
+**[StoneWise Technology Co., Ltd.](http://www.stonewise.cn/home)**  
+Oct. 2018 - Jan. 2019 *@ Beijing, China*  
+Intern in the algorithm team  
+Participating in a project concering scaffold-based molecular generation
+
+**[XtalPi Inc.](http://www.xtalpi.com/)**  
+Oct. 2017 - Feb. 2018 *@ Beijing, China*  
+Intern in the algorithm team  
+Participating in a project concering binding affinity prediction and discovery of IDO inhibitor
+
 
 ## Conference
 
@@ -63,15 +87,3 @@ Attendee *@ Beijing, China*
 
 **Aug. 2017, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)**  
 Attendee *@ Beijing, China*
-
-## Internship
-
-**[StoneWise Technology Co., Ltd.](http://www.stonewise.cn/home)**  
-Oct. 2018 - Jan. 2019 *@ Beijing, China*  
-Intern in algorithm group  
-Involved in scaffold-based molecular generation
-
-**[XtalPi Inc.](http://www.xtalpi.com/)**  
-Oct. 2017 - Feb. 2018 *@ Beijing, China*  
-Intern in algorithm group  
-Involved in binding affinity prediction and discovery of IDO inhibitor
