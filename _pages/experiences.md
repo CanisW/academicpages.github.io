@@ -5,6 +5,7 @@ excerpt: "Experiences"
 author_profile: true
 redirect_from: 
   - /experiences.html
+  - /
 ---
 
 *(Last Updated: July 2022)*

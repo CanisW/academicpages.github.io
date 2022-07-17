@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yanxing Wang"
-  avatar           : "profile.png"
-  bio              : "Computational Drug Discovery"
-  location         : "Beijing, China"
+  avatar           : "profile.jpg"
+  bio              : "Drug Discovery\nSimulation\nDeep Learning"
+  location         : "Austin, TX, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -94,22 +94,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "wangyanhang"
+  facebook         : "ywangfb"
   foursquare       :
   github           : "canisw"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "yw_vulp"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "yw_vulp"
   vine             :
   weibo            :
   xing             :
@@ -184,9 +184,9 @@ collections:
   experiences:
     output: true
     permalink: /:collection/:path/
-  education:
-    output: true
-    permalink: /:collection/:path/
+  # education:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
