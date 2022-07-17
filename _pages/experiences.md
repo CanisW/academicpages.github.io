@@ -15,7 +15,8 @@ redirect_from:
 **Jan., 2022 - Present**
 Ph.D. in Computational Biomedical Engineering  
 <!-- *@ [Department of Biomedical Engineering](https://www.bme.utexas.edu/), [Cockrell School of Engineering](https://cockrell.utexas.edu/), [The University of Texas at Austin](https://www.utexas.edu/)* -->
-*@ Department of Biomedical Engineering, Cockrell School of Engineering， The University of Texas at Austin*
+*@ Department of Biomedical Engineering, Cockrell School of Engineering,*  
+  *The University of Texas at Austin*  
 Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren)  
 
 **Aug., 2018 - June, 2020**  
