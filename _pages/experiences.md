@@ -25,7 +25,7 @@ Focus on incorporating machine learning method into computational models to spee
 
 **Aug., 2014 - June, 2018**  
 B.Sc. in Pharmaceutical Sciences  
-Advisor: Liangren Zhang
+Advisor: Liangren Zhang  
 *@ [School of Pharmaceutical Sciences](https://sps.bjmu.edu.cn/), [Peking University](https://www.pku.edu.cn/)*  
 
 
