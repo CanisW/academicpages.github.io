@@ -7,9 +7,7 @@ redirect_from:
   - /experiences.html
   - /
 ---
-<br>
-
-*(Last Updated: July 2022)*
+<!-- <br> -->
 
 ## Education
 
@@ -87,3 +85,6 @@ Participating in a project concering binding affinity prediction and discovery o
 *@ Beijing, China*
 
 **Aug. 2017, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)** *@ Beijing, China*
+
+
+*(Page Last Updated in July 2022)*
