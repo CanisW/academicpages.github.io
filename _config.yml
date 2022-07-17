@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanxing Wang | Home"
 title_separator          : "-"
 name                     : &name "Yanxing Wang"  # in footbar
-description              : &description "YWang's Homepage"  # no idea where it is on pages
+description              : &description "YW's CV"  # no idea where it is on pages
 url                      : https://cv.ywang.site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "canisw/academicpages.github.io"
