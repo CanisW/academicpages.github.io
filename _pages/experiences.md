@@ -71,19 +71,17 @@ Participating in a project concering scaffold-based molecular generation
 **[XtalPi Inc.](http://www.xtalpi.com/)**  
 Oct. 2017 - Feb. 2018 *@ Beijing, China*  
 Intern in the algorithm team  
-Participating in a project concering binding affinity prediction and discovery of IDO inhibitor
+Participating in a project concering binding affinity prediction and discovery of enzyme inhibitors
 
 
 ## Conference
 
-**Nov. 2019, The 15th National Conference on Computer Chemistry of China**  
-Attendee & Poster Presenter *@ Shanghai, China*
+**June 2022, Tinker Developer Workshop** *@ Washington D.C., USA*
 
-**Aug. 2019, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)**  
-Attendee & Poster Presenter *@ Chengdu, China*
+**Nov. 2019, The 15th National Conference on Computer Chemistry of China** Poster Presenter *@ Shanghai, China*
 
-**Oct. 2017, The 1st International Symposium on Frontiers of Natural and Biomimetic Drugs-Innovations on Drugs Driven by the Integration of Chemical Biology**  
-Attendee *@ Beijing, China*
+**Aug. 2019, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)** Poster Presenter *@ Chengdu, China*
 
-**Aug. 2017, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)**  
-Attendee *@ Beijing, China*
+**Oct. 2017, The 1st International Symposium on Frontiers of Natural and Biomimetic Drugs-Innovations on Drugs Driven by the Integration of Chemical Biology** *@ Beijing, China*
+
+**Aug. 2017, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)** *@ Beijing, China*
