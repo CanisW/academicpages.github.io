@@ -14,13 +14,15 @@ redirect_from:
 **Jan., 2022 - Present**
 Ph.D. in Computational Biomedical Engineering  
 <!-- *@ [Department of Biomedical Engineering](https://www.bme.utexas.edu/), [Cockrell School of Engineering](https://cockrell.utexas.edu/), [The University of Texas at Austin](https://www.utexas.edu/)* -->
-*@ Department of Biomedical Engineering, Cockrell School of Engineering,*  
-  *The University of Texas at Austin*  
+*@ Department of Biomedical Engineering,*  
+&nbsp;&nbsp;*Cockrell School of Engineering, The University of Texas at Austin*  
 Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren)  
 
 **Aug., 2018 - June, 2020**  
 M.Sc. in Medicinal Chemistry  
-*@ Department of Medicinal Chemistry, State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences, Peking University*  
+*@ Department of Medicinal Chemistry,*
+&nbsp;&nbsp;*State Key Laboratory of Natural and Biomimetic Drugs,*  
+&nbsp;&nbsp;*School of Pharmaceutical Sciences, Peking University*  
 Advisor: [Liangren Zhang](http://dmc.sps.bjmu.edu.cn/english_20180111164913306359/researchsupervisor/193269.htm#)  
 Focused on incorporating machine learning method into computational models to speed up the early stage of drug discovery.  
 
@@ -31,12 +33,20 @@ Advisor: [Liangren Zhang](http://dmc.sps.bjmu.edu.cn/english_2018011116491330635
 
 ## Teaching Experience
 
+**BME303L Introduction to Computing (Spring 2022)**  
+Teaching Assistant, Instructor: Prof. Tim Yeh 
+*@ The University of Texas at Austin*
+
+- Leading the computer labs
+- Designing, proctoring and grading the exams
+- Course topics covered basic C++ and Python programing.
+
 **Computer Aided Drug Design Lab (Fall 2018 & Spring 2018)**  
 Teaching Assistant, Instructor: Prof. Yan Niu  
-*@ SPS, PKU*
+*@ Peking University*
 
-- Teached students how to use scientific software related to drug design, including Sybyl, Discovery Studio, and Gaussian;
-- Supervised students to do projects, including QSAR, binding mode prediction, and molecular geometry optimization.
+- Teaching students how to use scientific software related to drug design, including Sybyl, Discovery Studio, and Gaussian;
+- Supervising students to do projects, including QSAR, binding mode prediction, and molecular geometry optimization.
 
 ## Conference
 
