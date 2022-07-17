@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanxing Wang | Home"
+title                    : "Yanxing Wang | CV"
 title_separator          : "-"
 name                     : &name "Yanxing Wang"  # in footbar
 description              : &description "YW's CV"  # no idea where it is on pages
