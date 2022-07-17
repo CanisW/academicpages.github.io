@@ -14,38 +14,38 @@ redirect_from:
 
 **Jan., 2022 - Present**
 Ph.D. in Computational Biomedical Engineering  
-Advisor: Pengyu Ren  
-*@ [Department of Biomedical Engineering](https://www.bme.utexas.edu/), [Cockrell School of Engineering](https://cockrell.utexas.edu/), [The University of Texas at Austin](https://www.utexas.edu/)*
+<!-- *@ [Department of Biomedical Engineering](https://www.bme.utexas.edu/), [Cockrell School of Engineering](https://cockrell.utexas.edu/), [The University of Texas at Austin](https://www.utexas.edu/)* -->
+*@ Department of Biomedical Engineering, Cockrell School of Engineering， The University of Texas at Austin*
+Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren)  
 
 **Aug., 2018 - June, 2020**  
 M.Sc. in Medicinal Chemistry  
-Advisor: Liangren Zhang  
-*@ [Drug Design Center (DDC)](http://www.pkuddc.com/index.jsp), [State Key Laboratory of Natural and Biomimetic Drugs (SKLNDB)](http://sklnbd.bjmu.edu.cn/), [School of Pharmaceutical Sciences](https://sps.bjmu.edu.cn/), [Peking University (PKU)](https://www.pku.edu.cn/)*  
-Focus on incorporating machine learning method into computational models to speed up the early stage of drug discovery.  
+*@ Department of Medicinal Chemistry, State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences, Peking University*  
+Advisor: [Liangren Zhang](http://dmc.sps.bjmu.edu.cn/english_20180111164913306359/researchsupervisor/193269.htm#)  
+Focused on incorporating machine learning method into computational models to speed up the early stage of drug discovery.  
 
 **Aug., 2014 - June, 2018**  
 B.Sc. in Pharmaceutical Sciences  
-Advisor: Liangren Zhang  
-*@ [School of Pharmaceutical Sciences](https://sps.bjmu.edu.cn/), [Peking University](https://www.pku.edu.cn/)*  
+*@ School of Pharmaceutical Sciences, Peking University*  
+Advisor: [Liangren Zhang](http://dmc.sps.bjmu.edu.cn/english_20180111164913306359/researchsupervisor/193269.htm#)  
 
 
-## Research Experience
-
+## Research
 
 **TF3P: Three-dimensional Force Fields Fingerprint Learned by Deep Capsular Network.**  
-Nov. 2018 - May 2020 *@ DDC, SKLNBD, PKU*
+Nov. 2018 - May 2020 *Advisor: [Liangren Zhang](http://dmc.sps.bjmu.edu.cn/english_20180111164913306359/researchsupervisor/193269.htm#) @ Peking University*
 
 - Developed a new 3D fingerprint, TF3P, using the deep capsular network;
 - TF3P outperforms other fingerprints on retrieving similar targets by similar ligands.
 
 **DeepScaffold: A Comprehensive Tool for Scaffold-Directed Drug Discovery Using Deep Learning**  
-Aug. 2018 - June. 2019 *@ DDC, SKLNBD, PKU*
+Aug. 2018 - June. 2019 *@ SKLNBD, PKU*
 
 - Developed graph-based deep generative models for scaffold-based molecular derivatization;
 - Demonstrated the excellent performance of the model using molecular docking.
 
 **Discovery of Novel Inhibitors of Glycogen Synthase Kinase-3$\alpha$ for Treatment of Acute Myeloid Leukemia**  
-Aug. 2017 - Dec. 2018 *@ DDC, SKLNBD, PKU*
+Aug. 2017 - Dec. 2018 *@  SKLNBD, PKU*
 
 - Identified a novel chemical series of GSK-3$\alpha$ inhibitors by structure-based virtual screening;
 - Summarized the structure-activity relationship (SAR) by similarity search;
@@ -53,17 +53,17 @@ Aug. 2017 - Dec. 2018 *@ DDC, SKLNBD, PKU*
 - Elucidated the SAR by molecular docking and dynamics simulations.
 
 **QSAR of Acylphloroglucinol-Based Meroterpenoid Inhibitors of KSHV From *Hypericum Japonicum***  
-Jan. 2018 - Mar. 2018 *@ DDC, SKLNBD, PKU*
+Jan. 2018 - Mar. 2018 *@  SKLNBD, PKU*
 
 - Field-based 3D QSAR of KSHV inhibitors extracted from *Hypericum japonicum*.
 
 **Discovery of New GSK-3$\beta$ Inhibitors Through Structure-Based Virtual Screening**  
-Apr. 2017 - Aug. 2017 *@ DDC, SKLNBD, PKU*
+Apr. 2017 - Aug. 2017 *@  SKLNBD, PKU*
 
 - Binding modes prediction by molecular docking and dynamics simulations.
 
 **Activating Thioesterification in Synthesis of Peptidyl Thioesters by Peroglutamyl Imide**  
-Feb. 2017 - Mar. 2017 *@ Dong Group, SKLNBD, PKU*
+Feb. 2017 - Mar. 2017 *Advisor: [Suwei Dong](http://sklnbd.bjmu.edu.cn/k/e/action/ListInfo/?classid=238) @ Peking University*
 
 - Synthesis of peptide-glutamylhydrazine-resin complex.
 
