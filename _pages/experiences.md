@@ -47,8 +47,6 @@ Teaching Assistant, Instructor: Prof. Yan Niu
 - Teaching students how to use scientific software related to drug design, including Sybyl, Discovery Studio, and Gaussian;
 - Supervising students to do projects, including QSAR, binding mode prediction, and molecular geometry optimization.
 
-
-
 ## Work Experience
 
 **[Galixir](https://www.galixir.com/)**  
