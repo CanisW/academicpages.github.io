@@ -83,6 +83,7 @@ Participating in a project concering binding affinity prediction and discovery o
 
 **Aug. 2019, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)** *@ Chengdu, China* (Poster Presenter)
 
-**Oct. 2017, The 1st International Symposium on Frontiers of Natural and Biomimetic Drugs-Innovations on Drugs Driven by the Integration of Chemical Biology** *@ Beijing, China*
+**Oct. 2017, The 1st International Symposium on Frontiers of Natural and Biomimetic Drugs-Innovations on Drugs Driven by the Integration of Chemical Biology**   
+*@ Beijing, China*
 
 **Aug. 2017, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)** *@ Beijing, China*
