@@ -7,11 +7,13 @@ redirect_from:
   - /experiences.html
   - /
 ---
+<br>
 
 *(Last Updated: July 2022)*
+
 ## Education
 
-**Jan., 2022 - Present**
+**Jan., 2022 - Present**  
 Ph.D. in Computational Biomedical Engineering  
 <!-- *@ [Department of Biomedical Engineering](https://www.bme.utexas.edu/), [Cockrell School of Engineering](https://cockrell.utexas.edu/), [The University of Texas at Austin](https://www.utexas.edu/)* -->
 *@ Department of Biomedical Engineering,*  
