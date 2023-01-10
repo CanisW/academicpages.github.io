@@ -8,13 +8,21 @@ author_profile: true
 
 *[Up-to-date publications & statistics on Google Scholar](https://scholar.google.com/citations?user=XoubmdkAAAAJ&hl=en)*
 
-**2020**
-
 *(Last Updated: Jan. 2021)*
 
-- Lai, J.$^\dagger$, Li, X.$^\dagger$, **Wang, Y.**, Yin, S., Zhou, J.$^\*$ and Liu, Z.$^\*$, AIScaffold: A Web-Based Tool for Scaffold Diversification Using Deep Learning. *J. Chem. Inf. Model.*, **2020**. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.0c00867) 
+**2022**
 
-- Xia, X.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhang, L.$^\*$ and Liu, Z.$^\*$, Graph-based generative models for *de novo* drug design. *Drug Discovery Today: Technol.*, **2020**. [\[CrossRef\]](https://doi.org/10.1016/j.ddtec.2020.11.004) 
+- **Wang, Y.**, Walker, B. D., Liu, C. and Ren, P.$^\*$, An Efficient Approach to Large-Scale Ab Initio Conformational Energy Profiles of Small Molecules. *Molecules*, **2022**, *27*, 8567. [\[CrossRef\]](https://doi.org/10.3390/molecules27238567) 
+
+- Li, M.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Li, Y., Zhang, L.$^\*$ and Liu, Z.$^\*$, Challenging Reverse Screening: A Benchmark Study for Comprehensive Evaluation. *Mol. Inform.*, **2022**, *41*, 2100063. [\[CrossRef\]](https://doi.org/10.1002/minf.202100063) 
+
+**2021**
+
+- Lai, J.$^\dagger$, Li, X.$^\dagger$, **Wang, Y.**, Yin, S., Zhou, J.$^\*$ and Liu, Z.$^\*$, AIScaffold: A Web-Based Tool for Scaffold Diversification Using Deep Learning. *J. Chem. Inf. Model.*, **2021**, *61*, 1-6. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.0c00867) 
+
+**2020**
+
+- Xia, X.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhang, L.$^\*$ and Liu, Z.$^\*$, Graph-based generative models for *de novo* drug design. *Drug Discovery Today: Technol.*, **2019**, *32*, 45-53. [\[CrossRef\]](https://doi.org/10.1016/j.ddtec.2020.11.004) 
 
 - Lai, J.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, X., Li, Y., Zhang, L.$^\*$ and Liu, Z.$^\*$, Privileged Scaffold Analysis of Natural Products with Deep Learning‐based Indication Prediction Model. *Mol. Inf.*, **2020**, *39*, 2000057. [\[CrossRef\]](https://doi.org/10.1002/minf.202000057) [\[GitHub\]](https://github.com/wllllg/Privileged_Scaffold)
 
