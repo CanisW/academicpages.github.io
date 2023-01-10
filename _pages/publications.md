@@ -8,7 +8,7 @@ author_profile: true
 
 *[Up-to-date publications & statistics on Google Scholar](https://scholar.google.com/citations?user=XoubmdkAAAAJ&hl=en)*
 
-*(Last Updated: Jan. 2021)*
+*(Last Updated: Jan. 2022)*
 
 **2022**
 
