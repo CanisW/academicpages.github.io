@@ -9,6 +9,21 @@ redirect_from:
 
 ## Research Projects
 
+**Incorporation of Neural Networks into AMOEBA Force Field**
+Jun. 2022 - Present *Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren) @ The University of Texas at Austin*
+
+- Aim for higher accuracy by using a neural network term in place of the current AMOEBA intramolecular terms;
+- Promising results seen with a preliminary model covering limited chemical elements;
+- Extension of the model to a broader range of chemical elements is ongoing;
+- Software development of Tinker9 is ongoing to improve the accessibility of the model to a broader community.
+
+**Large Scale Ab Initio Conformational Energy Profiling for Small Molecules**
+Jun. 2022 - Nov. 2022 *Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren) @ The University of Texas at Austin*
+
+- Data-driven deep learning methods for force field development require high-quality geometry and energy data;
+- Hybrid protocol of GFN2-xTB geometry optimization followed by single-point energy calculations with high-level DFT achieves reliable results while being hundreds of times faster;
+- The protocol can be applied to a large dataset of small molecules to generate conformational energy profiles.
+
 **TF3P: Three-dimensional Force Fields Fingerprint Learned by Deep Capsular Network.**  
 Nov. 2018 - May 2020 *Advisor: [Liangren Zhang](http://dmc.sps.bjmu.edu.cn/english_20180111164913306359/researchsupervisor/193269.htm#), [Zhenming Liu](http://dmc.sps.bjmu.edu.cn/gbenglish/faculty/researchsu/221427.htm) @ Peking University*
 

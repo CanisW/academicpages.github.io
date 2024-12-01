@@ -8,7 +8,21 @@ author_profile: true
 
 *[Up-to-date publications & statistics on Google Scholar](https://scholar.google.com/citations?user=XoubmdkAAAAJ&hl=en)*
 
-*(Last Updated: Jan. 2022)*
+*(Last Updated: Nov. 2024)*
+
+
+**2024**
+
+- Jin, Z., **Wang, Y.** and Liu, C., Machine Learning Force Fields. In *Springer Handbook of Chem- and Bioinformatics*; Springer. (Just Accepted)
+
+- Yang, Y.$^{\dagger}$, An, D.$^{\dagger}$, **Wang, Y.**$^{\dagger}$, Zou, W., Cui, G., Tong, J., Feng, K., Jing, T., Wang, L., Shi, L.$^\*$ and Li, C.$^\*$, Wee1 inhibitor optimization through deep-learning-driven decision making. *Euro. J. Med. Chem.*, **2024**, *280*, 116912. [\[CrossRef\]](https://doi.org/10.1016/j.ejmech.2024.116912)
+
+- **Wang, Y.**, $^{\dagger}$, Jaffrelot Inizan T.$^{\dagger}$, Liu, C., Piquemal, J.-P.$^\*$ and Ren, P.$^\*$, Incorporating neural networks into the AMOEBA polarizable force field.
+        *J. Phys. Chem. B*, **2024**, *128*, 2381-2388. [\[CrossRef\]](https://doi.org/10.1021/acs.jpcb.3c08166) [\[ChemRxiv\]](https://doi.org/10.26434/chemrxiv-2023-kgfpg-v3)
+
+**2023**
+
+- Zhu, W., **Wang, Y.**, Niu, Y., Zhang, L. and Liu, Z.$^\*$, Current Trends and Challenges in Drug-Likeness Prediction: Are They Generalizable and Interpretable? *Health Data Sci.*, **2023**, *3*, 98. [\[CrossRef\]](https://doi.org/10.34133/hds.0098)
 
 **2022**
 
@@ -22,8 +36,6 @@ author_profile: true
 
 **2020**
 
-- Xia, X.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhang, L.$^\*$ and Liu, Z.$^\*$, Graph-based generative models for *de novo* drug design. *Drug Discovery Today: Technol.*, **2019**, *32*, 45-53. [\[CrossRef\]](https://doi.org/10.1016/j.ddtec.2020.11.004) 
-
 - Lai, J.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, X., Li, Y., Zhang, L.$^\*$ and Liu, Z.$^\*$, Privileged Scaffold Analysis of Natural Products with Deep Learning‐based Indication Prediction Model. *Mol. Inf.*, **2020**, *39*, 2000057. [\[CrossRef\]](https://doi.org/10.1002/minf.202000057) [\[GitHub\]](https://github.com/wllllg/Privileged_Scaffold)
 
 - **Wang, Y.**$^\dagger$, Hu, J.$^\dagger$, Lai, J., Li, Y., Jin, H., Zhang, L., Zhang, L.$^\*$ and Liu, Z.$^\*$, TF3P: Three-dimensional Force Fields Fingerprint Learned by Deep Capsular Network. *J. Chem. Inf. Model.*, **2020**, *60*, 2754-2765. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.0c00005) [\[arXiv.org\]](https://arxiv.org/abs/1912.11430) [\[GitHub\]](https://github.com/CanisW/TF3P)
@@ -31,6 +43,8 @@ author_profile: true
 - Li, Y.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhou, J.$^\*$, Zhang, L.$^\*$, Liu, Z.$^\*$, DeepScaffold: a comprehensive tool for scaffold-based de novo drug discovery using deep learning. *J. Chem. Inf. Model.*, **2020**, *60*, 77-91. [\[CrossRef\]](https://doi.org/10.1021/acs.jcim.9b00727) [\[arXiv.org\]](https://arxiv.org/abs/1908.07209) [\[GitHub\]](https://github.com/deep-scaffold)
 
 **2019**
+
+- Xia, X.$^\dagger$, Hu, J.$^\dagger$, **Wang, Y.**, Zhang, L.$^\*$ and Liu, Z.$^\*$, Graph-based generative models for *de novo* drug design. *Drug Discovery Today: Technol.*, **2019**, *32*, 45-53. [\[CrossRef\]](https://doi.org/10.1016/j.ddtec.2020.11.004) 
 
 - Xue, Y.$^\dagger$, He, X.$^\dagger$, Yang, T., Wang, Y., Liu, Z., Zhang, G., **Wang, Y.**, Wang, K.$^\*$, Zhang, L.$^\*$, Zhang, L., Discovery of fused heterocyclic carboxamide derivatives as novel $\alpha$7-nAChR agonists: Synthesis, preliminary SAR and biological evaluation. *Euro. J. Med. Chem.*, **2019**, *182*, 111618. [\[CrossRef\]](https://doi.org/10.1016/j.ejmech.2019.111618)
   

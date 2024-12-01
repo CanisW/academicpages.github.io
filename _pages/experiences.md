@@ -12,13 +12,13 @@ redirect_from:
 ## Education
 
 **Jan., 2022 - Present**  
-Ph.D. in Computational Biomedical Engineering  
+Ph.D. Candidate in Computational Biomedical Engineering  
 <!-- *@ [Department of Biomedical Engineering](https://www.bme.utexas.edu/), [Cockrell School of Engineering](https://cockrell.utexas.edu/), [The University of Texas at Austin](https://www.utexas.edu/)* -->
 *@ Department of Biomedical Engineering,*  
 &nbsp;&nbsp;&nbsp;&nbsp;*Cockrell School of Engineering, The University of Texas at Austin*  
 Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren)  
 
-**Aug., 2018 - June, 2020**  
+**Aug., 2018 - Jun., 2020**  
 M.Sc. in Medicinal Chemistry  
 *@ Department of Medicinal Chemistry,*  
 &nbsp;&nbsp;&nbsp;&nbsp;*State Key Laboratory of Natural and Biomimetic Drugs,*  
@@ -26,7 +26,7 @@ M.Sc. in Medicinal Chemistry
 Advisor: [Liangren Zhang](http://dmc.sps.bjmu.edu.cn/english_20180111164913306359/researchsupervisor/193269.htm#)  
 Focused on incorporating machine learning method into computational models to speed up the early stage of drug discovery.  
 
-**Aug., 2014 - June, 2018**  
+**Aug., 2014 - Jun., 2018**  
 B.Sc. in Pharmaceutical Sciences  
 *@ School of Pharmaceutical Sciences, Peking University*  
 Advisor: [Liangren Zhang](http://dmc.sps.bjmu.edu.cn/english_20180111164913306359/researchsupervisor/193269.htm#)  
@@ -72,13 +72,24 @@ Participating in a project concering binding affinity prediction and discovery o
 
 ## Conference
 
-**June 2022, Tinker Developer Workshop** *@ Washington D.C., USA*
+**Aug. 2024, NIH Electrostatics Workshop** *@ Washington, DC, USA* (Oral Presentation)
+
+**Aug. 2024, ACS Meeting Fall 2024** *@ Denver, CO, USA* (Oral Presentation)
+
+**Jun. 2024, Tinker Developer Workshop** *@ Pisa, Italy* (Oral Presentation)
+
+**Aug. 2023, ACS Meeting Fall 2023** *@ San Francisco, CA, USA* (Poster Presentation)
+
+**Jun. 2022, Tinker Developer Workshop** *@ Washington, DC, USA*
+
+**Oct. 2021, The 16th National Conference on Computer Chemistry of China**   
+*@ Changchun, Jilin, China*
 
 **Nov. 2019, The 15th National Conference on Computer Chemistry of China**   
-*@ Shanghai, China* (Poster Presenter)
+*@ Shanghai, China* (Poster Presentation)
 
-**Aug. 2019, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)** *@ Chengdu, China*   
-(Poster Presenter)
+**Aug. 2019, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)** *@ Chengdu, Sichuan, China*   
+(Poster Presentation)
 
 **Oct. 2017, The 1st International Symposium on Frontiers of Natural and Biomimetic Drugs-Innovations on Drugs Driven by the Integration of Chemical Biology**   
 *@ Beijing, China*
@@ -86,4 +97,4 @@ Participating in a project concering binding affinity prediction and discovery o
 **Aug. 2017, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)** *@ Beijing, China*
 
 
-*(Page Last Updated in July 2022)*
+*(Page Last Updated in Nov. 2024)*
