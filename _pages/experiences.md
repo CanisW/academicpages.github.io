@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-**Jan., 2022 - May, 2025 (Expected Graduation)**  
+**Jan., 2022 - May, 2026 (Expected Graduation)**  
 Ph.D. Candidate in Computational Biomedical Engineering  
 M.Sc. in Engineering (2024)
 <!-- *@ [Department of Biomedical Engineering](https://www.bme.utexas.edu/), [Cockrell School of Engineering](https://cockrell.utexas.edu/), [The University of Texas at Austin](https://www.utexas.edu/)* -->
