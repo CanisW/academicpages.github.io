@@ -9,13 +9,20 @@ redirect_from:
 
 ## Research Projects
 
-**Incorporation of Neural Networks into AMOEBA Force Field**  
+**Systematical Reparametrization of AMOEBA vdW Interaction for Small Organic Molecules**  
+Aug. 2024 - Present *Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren) @ The University of Texas at Austin*
+
+- Parametrizing more than 100 model compounds covering a broad range of chemical space;
+- Generated large-amount of dimer configurations by comprehensive enumeration;
+- Included temperature dependency of liquid properties.
+
+**AMOEBA+NN: Incorporation of Neural Networks into AMOEBA Force Field**  
 Jun. 2022 - Present *Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren) @ The University of Texas at Austin*
 
-- Aim for higher accuracy by using a neural network term in place of the current AMOEBA intramolecular terms;
-- Promising results seen with a preliminary model covering limited chemical elements;
-- Extension of the model to a broader range of chemical elements is ongoing;
-- Software development of Tinker9 is ongoing to improve the accessibility of the model to a broader community.
+- Incorporating neural networks as a replacement or correction to the existing AMOEBA terms for better accuracy;
+- Observed promising results with a preliminary neural network potential replacing AMOEBA bonded terms;
+- Extended the approach to correct AMOEBA non-bonded terms for metal coordination systems, showing similar promise.
+- Actively developing Tinker-GPU for support of neural network potentials.
 
 **Large Scale Ab Initio Conformational Energy Profiling for Small Molecules**  
 Jun. 2022 - Nov. 2022 *Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren) @ The University of Texas at Austin*

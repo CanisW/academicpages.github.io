@@ -11,12 +11,14 @@ redirect_from:
 
 ## Education
 
-**Jan., 2022 - Present**  
+**Jan., 2022 - May, 2025 (Expected Graduation)**  
 Ph.D. Candidate in Computational Biomedical Engineering  
+M.Sc. in Engineering (2024)
 <!-- *@ [Department of Biomedical Engineering](https://www.bme.utexas.edu/), [Cockrell School of Engineering](https://cockrell.utexas.edu/), [The University of Texas at Austin](https://www.utexas.edu/)* -->
 *@ Department of Biomedical Engineering,*  
 &nbsp;&nbsp;&nbsp;&nbsp;*Cockrell School of Engineering, The University of Texas at Austin*  
 Advisor: [Pengyu Ren](https://www.bme.utexas.edu/people/faculty-directory/ren)  
+Computational Biomedical Engineering Track: Integration of neural networks into the AMOEBA polarizable force field, for either bonded terms or non-bonded terms. Development of the canonical AMOEBA force field parameters and Tinker-GPU.
 
 **Aug., 2018 - Jun., 2020**  
 M.Sc. in Medicinal Chemistry  
@@ -51,7 +53,7 @@ Teaching Assistant, Instructor: Prof. Yan Niu
 
 **[Galixir](https://www.galixir.com/)**  
 Feb. 2021 - Jan. 2022 *@ Beijing, China*  
-Algorithm Engineer in the algorithrm application team  
+Full-time algorithm engineer in the algorithrm application team  
 Leading and participating in several AI-aided drug R&D pipelines (discovery and pre-clinical stages)
 
 **[XtalPi Inc.](http://www.xtalpi.com/)**  
@@ -71,6 +73,10 @@ Participating in a project concering binding affinity prediction and discovery o
 
 
 ## Conference
+
+**Jun. 2025, Tinker Developer Workshop** *@ Dallas, TX, USA* (Oral Presentation)
+
+**Aug. 2025, ACS Meeting Spring 2025** *@ San Diego, CA, USA* (Poster Presentation)
 
 **Aug. 2024, NIH Electrostatics Workshop** *@ Washington, DC, USA* (Oral Presentation)
 
@@ -97,5 +103,5 @@ Participating in a project concering binding affinity prediction and discovery o
 **Aug. 2017, Chinese Medicinal Chemistry Symposium (CMCS) & CPA-EFMC International Symposium on Medicinal Chemistry (CPA-EFMC ISMC)** *@ Beijing, China*
 
 
-*(Page Last Updated in Nov. 2024)*
+*(Page Last Updated in Dec. 2025)*
 

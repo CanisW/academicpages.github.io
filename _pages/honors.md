@@ -10,6 +10,8 @@ redirect_from:
 
 **During my time at The University of Texas at Austin**
 
+- [2025] University Graduate Continuing Fellowship.
+- [2025] George J. Heuer, Jr. Ph.D. Endowed Graduate Fellowship.
 - [2022] George J. Heuer, Jr. Ph.D. Endowed Graduate Fellowship.
 
 
